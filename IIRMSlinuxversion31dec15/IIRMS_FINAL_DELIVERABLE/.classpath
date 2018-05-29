@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JOGL"/>
+	<classpathentry kind="lib" path="/home/researcher/Documents/Necessary Jar Files/important ones/dans-dbf-lib-1.0.0-beta-10.jar"/>
+	<classpathentry kind="lib" path="/home/researcher/Documents/Necessary Jar Files/important ones/gnu-trove-1.0.2.jar"/>
+	<classpathentry kind="lib" path="/home/researcher/Documents/Necessary Jar Files/important ones/jgraph.jar"/>
+	<classpathentry kind="lib" path="/home/researcher/Documents/Necessary Jar Files/important ones/jgrapht-jdk1.5-0.7.3.jar"/>
+	<classpathentry kind="lib" path="/home/researcher/Documents/Necessary Jar Files/important ones/jsi-1.0.0.jar"/>
+	<classpathentry kind="lib" path="/home/researcher/Documents/Necessary Jar Files/important ones/jts-1.8.jar"/>
+	<classpathentry kind="lib" path="/home/researcher/Documents/Necessary Jar Files/important ones/mybatis-3.2.3.jar"/>
+	<classpathentry kind="lib" path="/home/researcher/Documents/Necessary Jar Files/important ones/postgresql-9.2-1003.jdbc4.jar"/>
+	<classpathentry kind="lib" path="/home/researcher/Documents/Necessary Jar Files/important ones/saxon-xqj-9.1.0.8.jar"/>
+	<classpathentry kind="lib" path="/home/researcher/Documents/Necessary Jar Files/important ones/shapefilereader-1.0.jar"/>
+	<classpathentry kind="lib" path="/home/researcher/Documents/Necessary Jar Files/important ones/slf4j-api-1.6.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
